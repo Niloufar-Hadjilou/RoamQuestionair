@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RoamQuestionair/precache-manifest.e89bce0f45582b0b19d0c734395d97cb.js"
+  "/RoamQuestionair/precache-manifest.668cf9667b5ab75bd06ce6814c4c388d.js"
 );
 
 self.addEventListener('message', (event) => {
