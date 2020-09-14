@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RoamQuestionnaire/static/css/main.a07b29a5.chunk.css",
+    "main.js": "/RoamQuestionnaire/static/js/main.833bf02c.chunk.js",
+    "main.js.map": "/RoamQuestionnaire/static/js/main.833bf02c.chunk.js.map",
+    "runtime-main.js": "/RoamQuestionnaire/static/js/runtime-main.6595e924.js",
+    "runtime-main.js.map": "/RoamQuestionnaire/static/js/runtime-main.6595e924.js.map",
+    "static/js/2.6e930286.chunk.js": "/RoamQuestionnaire/static/js/2.6e930286.chunk.js",
+    "static/js/2.6e930286.chunk.js.map": "/RoamQuestionnaire/static/js/2.6e930286.chunk.js.map",
+    "index.html": "/RoamQuestionnaire/index.html",
+    "precache-manifest.229dcc651f81f8c3e444a6b89384da1c.js": "/RoamQuestionnaire/precache-manifest.229dcc651f81f8c3e444a6b89384da1c.js",
+    "service-worker.js": "/RoamQuestionnaire/service-worker.js",
+    "static/css/main.a07b29a5.chunk.css.map": "/RoamQuestionnaire/static/css/main.a07b29a5.chunk.css.map",
+    "static/js/2.6e930286.chunk.js.LICENSE.txt": "/RoamQuestionnaire/static/js/2.6e930286.chunk.js.LICENSE.txt",
+    "static/media/Nelly.jpg": "/RoamQuestionnaire/static/media/Nelly.9565e46f.jpg",
+    "static/media/styles.css": "/RoamQuestionnaire/static/media/background.e4f80a03.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6595e924.js",
+    "static/js/2.6e930286.chunk.js",
+    "static/css/main.a07b29a5.chunk.css",
+    "static/js/main.833bf02c.chunk.js"
+  ]
+}
